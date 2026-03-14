@@ -3,9 +3,8 @@
 
 <div align="center">
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Yuva+Priyanka+Manda;Deep+Learning+%7C+Computer+Vision+%7C+MLOps" alt="Typing SVG" />
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1F4E79,00B4A0&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Applied+AI+%7C+Machine+Learning" alt="Typing SVG" />
+
 
 </div>
 
