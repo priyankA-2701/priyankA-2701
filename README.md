@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Yuva+Priyanka+Manda;Deep+Learning+%7C+Computer+Vision+%7C+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI" alt="Typing SVG" />
 
 <!-- ANIMATED WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1F4E79,00B4A0&height=120&section=header&animation=fadeIn" width="100%"/>
@@ -20,12 +20,12 @@
 
 ---
 
-## ⚡ What Makes Me Different
+## ⚡ Most portfolios show experiments.
 
-```
-Most graduates:   Kaggle notebooks → Course certificates → Generic projects
-Me:               Live research internship @ CNR Italy → Production deployments → Real scientific impact
-```
+Mine focuses on **deployable AI systems**.
+
+Research → Model → Validation → Deployment → Real users.
+
 
 I'm a **Data Science graduate** interning at **CNR — Italy's National Research Council**, building deep learning systems that researchers actually use. My models don't live in notebooks — they live in deployed applications solving real-world problems.
 
@@ -50,35 +50,10 @@ I'm a **Data Science graduate** interning at **CNR — Italy's National Research
 
 ## 🔬 Currently Working On
 
-<div align="center">
-
-```python
-class YuvaPriyanka:
-    def __init__(self):
-        self.name        = "Yuva Priyanka Manda"
-        self.role        = "Aspiring ML / AI Engineer"
-        self.location    = "Naples, Italy 🇮🇹"
-        self.education   = "M.Sc. Data Science @ UniNa Federico II"
-
-    @property
-    def current_work(self):
-        return {
-            "internship" : "Deep Learning @ CNR Naples 🔬",
-            "building"   : "Real-time Streamlit segmentation app 🚀",
-            "next_models": ["U-Net++", "DeepLabV3+", "Transformer Seg."],
-            "learning"   : ["LLMs", "Prompt Engineering", "MLOps"],
-        }
-
-    @property
-    def ask_me_about(self):
-        return ["PyTorch", "Computer Vision", "Deep Learning Pipelines",
-                "Statistical Analysis", "Model Deployment", "Data Storytelling"]
-
-    def fun_fact(self):
-        return "I analyse football data AND rocket launches 🚀⚽ — data has no domain."
-```
-
-</div>
+- 🔬 Deep learning research for immune response analysis (CNR Naples)
+- 🚀 Deploying computer vision models with Streamlit
+- 🤖 Building LLM-powered data applications
+- ⚙️ Learning production ML systems and MLOps
 
 ---
 
@@ -216,9 +191,16 @@ Full data mining workflow: EDA, hypothesis testing, clustering, association rule
 
 <div align="center">
 
-I am actively looking for **ML Engineer**, **AI Engineer**, **Data Scientist**, and **Data Analyst** opportunities.
+## 🤝 Open to Opportunities
 
-If you're building something with data — let's connect.
+I’m currently open to opportunities in:
+
+Machine Learning Engineer  
+AI Engineer  
+Data Scientist  
+
+If you're working on **AI, data-driven products, or scientific research**, I'd love to collaborate.
+
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-priyanka-manda-482a411b9/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pushpiderresume.my.canva.site/priyanka-pdf)
