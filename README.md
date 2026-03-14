@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4A0&height=120&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&width=850&lines=Hi+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+|+Machine+Learning+|+Applied+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&width=850&lines=Yuva+Priyanka+Manda;Data+Science+Graduate;Machine+Learning+%7C+Applied+AI" />
+
 
 ### 🧠 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
 
