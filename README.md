@@ -1,8 +1,11 @@
-<div align="center">
+.<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4A0&height=120&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00B4A0&center=true&vCenter=true&width=900&lines=Hi+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI" />
+# 👋 Hi, I'm Yuva Priyanka Manda 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00B4A0&center=true&vCenter=true&width=900&lines=Data+Science+Student+%7C+Machine+Learning+%7C+Applied+AI" />
 
 ### 🧠 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
 
@@ -186,6 +189,7 @@ Full data mining workflow: EDA, hypothesis testing, clustering, association rule
 🌱  Learning       →  LLMs · Prompt Engineering · MLOps · Production AI systems
 🗣️  Languages      →  English (Fluent) · Italian (Learning 🇮🇹) · Telugu (Native)
 ```
+
 
 ---
 
