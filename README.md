@@ -1,28 +1,17 @@
 <div align="center">
 
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4A0&height=120&section=header&animation=fadeIn"/>
 
-<!-- TYPING INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Applied+AI+%7C+Machine+Learning" />
+<!-- TYPING TEXT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI"/>
 
-### 🔬 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
+### 🧠 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
 
 *"Turning data into intelligent systems that solve real-world problems."*
 
-<br>
-
-<a href="https://www.linkedin.com/in/yuva-priyanka-manda-482a411b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://pushpiderresume.my.canva.site/priyanka-pdf">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:priyanka2781ym@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
+
 
 
 ---
