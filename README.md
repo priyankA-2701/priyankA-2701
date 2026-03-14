@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI" alt="Typing SVG" />
-
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1F4E79,00B4A0&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI" alt="Typing SVG"/>
 
 ### 🔬 ML Engineer in the Making &nbsp;·&nbsp; 🇮🇹 Naples, Italy &nbsp;·&nbsp; 🎓 M.Sc. Data Science
 
