@@ -2,12 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4A0&height=120&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&width=850&lines=Yuva+Priyanka+Manda;Data+Science+Graduate;Machine+Learning+%7C+Applied+AI" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00B4A0&center=true&vCenter=true&width=900&lines=Hi+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI" />
 
 ### 🧠 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
 
 *"Turning data into intelligent systems that solve real-world problems."*
+
+<br>
+
+<a href="https://www.linkedin.com/in/yuva-priyanka-manda-482a411b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://pushpiderresume.my.canva.site/priyanka-pdf">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:priyanka2781ym@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 </div>
 
@@ -16,11 +30,13 @@
 
 
 
+
+
 ---
 
-## ⚡ Most portfolios show experiments.
+## ⚡ What I Focus On
 
-Mine focuses on **deployable AI systems**.
+My work focuses on deployable AI systems.
 
 Research → Model → Validation → Deployment → Real users.
 
@@ -156,20 +172,8 @@ Full data mining workflow: EDA, hypothesis testing, clustering, association rule
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyankA-2701&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankA-2701&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=priyankA-2701&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -208,5 +212,7 @@ If you're working on **AI, data-driven products, or scientific research**, I'd l
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,00B4A0,1F4E79&height=100&section=footer" width="100%"/>
+
+
 
 </div>
