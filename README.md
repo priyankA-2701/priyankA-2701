@@ -1,25 +1,31 @@
 <div align="center">
 
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4A0&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<div align="center">
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Applied+AI+%7C+Machine+Learning" alt="Typing SVG" />
+<!-- TYPING INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Applied+AI+%7C+Machine+Learning" />
 
+### 🔬 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
 
-</div>
-
-
-### 🔬 ML Engineer in the Making &nbsp;·&nbsp; 🇮🇹 Naples, Italy &nbsp;·&nbsp; 🎓 M.Sc. Data Science
-
-> *"I don't just train models. I build systems that work in production, tell stories through data, and solve real scientific problems."*
+*"Turning data into intelligent systems that solve real-world problems."*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-priyanka-manda-482a411b9/)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pushpiderresume.my.canva.site/priyanka-pdf)
-[![Email](https://img.shields.io/badge/Hire_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka2781ym@gmail.com)
+<a href="https://www.linkedin.com/in/yuva-priyanka-manda-482a411b9/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://pushpiderresume.my.canva.site/priyanka-pdf">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:priyanka2781ym@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
 
 ---
 
