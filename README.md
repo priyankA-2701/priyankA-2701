@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- TOP WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4A0&height=120&section=header&animation=fadeIn"/>
 
-<!-- TYPING TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI"/>
+<img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00B4A0&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Yuva+Priyanka+Manda;Data+Science+Graduate+%7C+Machine+Learning+%7C+Applied+AI"/>
 
 ### 🧠 Aspiring ML Engineer · 🇮🇹 Naples, Italy · 🎓 M.Sc. Data Science
 
 *"Turning data into intelligent systems that solve real-world problems."*
 
 </div>
+
 
 
 
